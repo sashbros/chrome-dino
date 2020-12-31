@@ -1,2 +1,3 @@
-# genetic-nn-flappy
-A flappy bird game playing on its own by applying genetic algorithm
+# chrome-dino
+The google chrome dinosaur game where the dinosaur plays on its own.
+Used neuroevolution.
